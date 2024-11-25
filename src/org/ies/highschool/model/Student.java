@@ -14,6 +14,7 @@ public class Student {
     }
 
     public void showInfo(){
+        System.out.println("Infomacion del estudiante");
         System.out.println(nombre);
         System.out.println(apellidos);
         System.out.println(direccion);
